@@ -1,3 +1,4 @@
-ansible==2.1
+ansible==2.9.27
 testinfra==1.3.0
 molecule
+cookiecutter>=2.1.1 # not directly required, pinned by Snyk to avoid a vulnerability

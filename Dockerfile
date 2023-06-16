@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190515
 MAINTAINER Mark Wolfe <mark@wolfe.id.au>
 
 # http://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-apt-ubuntu
